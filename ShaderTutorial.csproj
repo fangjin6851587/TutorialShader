@@ -224,6 +224,7 @@
     <Compile Include="Assets\Scripts\PostEffectBase.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Shader\BloomEffect.shader" />
     <None Include="Assets\Shader\Camera-DepthTexture.shader" />
     <None Include="Assets\Shader\DepthOfField.shader" />
     <None Include="Assets\Shader\DepthTest.shader" />
